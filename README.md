@@ -1,4 +1,4 @@
-![Uploading business-facebook-cover-19.png…]()
+![business-facebook-cover-19](https://github.com/DineshGarusinghege/DineshGarusinghege/assets/140329456/282abd4c-0f9e-47e0-a904-0a651dd02996)
 <h1 align="center">Hi 👋, I'm Dinesh Garusinghege</h1>
 <h3 align="center">A passionate Web Development from Sri Lanka</h3>
 
