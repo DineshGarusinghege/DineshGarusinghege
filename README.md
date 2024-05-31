@@ -1,6 +1,6 @@
 ![business-facebook-cover-19](https://github.com/DineshGarusinghege/DineshGarusinghege/assets/140329456/282abd4c-0f9e-47e0-a904-0a651dd02996)
 <h1 align="center">Hi 👋, I'm Dinesh Garusinghege</h1>
-<h3 align="center">A passionate Web Development from Sri Lanka</h3>
+<h3 align="center">A passionate Software Development from Sri Lanka</h3>
 
 - 📫 How to reach me **ictdinesh.se@gmail.com**
 
